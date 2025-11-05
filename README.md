@@ -2,7 +2,7 @@
 
 This repository hosts an **AI-powered medical image classification system** that detects and classifies **bone fractures** in X-ray images. It combines advanced **machine learning**, **explainable AI (XAI)**, and a **Streamlit-based interactive interface** to assist healthcare professionals with quick, interpretable, and reliable diagnoses.
 
-> 🚀 **Note:** This project will be made **publicly accessible in September 2025**.  
+> 🚀 **Note:** This project will be made **publicly accessible in December 2025**.  
 > 📩 Until then, if you wish to **preview or access the project**, please [request access](mailto:aryannqureshi1@gmail.com).
 
 
